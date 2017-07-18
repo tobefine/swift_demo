@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "14fc3a145b65fdd93d8280fc9b73ed96"
+build_time: [553697416, 669757000]
+inputs:
+  "/Users/xda/Desktop/swift_demo/demo/demo/ViewController.swift": [553697414, 0]
+  "/Users/xda/Desktop/swift_demo/demo/demo/AppDelegate.swift": [553697414, 0]
