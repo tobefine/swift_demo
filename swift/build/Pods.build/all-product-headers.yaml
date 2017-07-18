@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/xda/Desktop/swift_demo/swift/build/Debug-iphonesimulator/Pods_swift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-swift-umbrella.h",
+          'external-contents': "/Users/xda/Desktop/swift_demo/swift/Pods/Target Support Files/Pods-swift/Pods-swift-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_swift-Swift.h",
+          'external-contents': "/Users/xda/Desktop/swift_demo/swift/build/Debug-iphonesimulator/Pods_swift.framework/Headers/Pods_swift-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/xda/Desktop/swift_demo/swift/build/Debug-iphonesimulator/Pods_swift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/xda/Desktop/swift_demo/swift/build/Pods.build/Debug-iphonesimulator/Pods-swift.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
