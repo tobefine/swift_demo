@@ -1,6 +1,12 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
-options: "14fc3a145b65fdd93d8280fc9b73ed96"
-build_time: [553697416, 669757000]
+options: "3ed78948ceb9dc80cb29440c8eaea5bd"
+build_time: [553699475, 658810000]
 inputs:
+  "/Users/xda/Desktop/swift_demo/demo/demo/HomePage/HomePageViewController.swift": [553699475, 0]
+  "/Users/xda/Desktop/swift_demo/demo/demo/Base/MainBarController.swift": [553699475, 0]
+  "/Users/xda/Desktop/swift_demo/demo/demo/Base/AppDelegate.swift": [553698599, 0]
   "/Users/xda/Desktop/swift_demo/demo/demo/ViewController.swift": [553697414, 0]
-  "/Users/xda/Desktop/swift_demo/demo/demo/AppDelegate.swift": [553697414, 0]
+  "/Users/xda/Desktop/swift_demo/demo/demo/Message/MessageViewController.swift": [553699475, 0]
+  "/Users/xda/Desktop/swift_demo/demo/demo/Base/BaseNavViewController.swift": [553698772, 0]
+  "/Users/xda/Desktop/swift_demo/demo/demo/Discovery/DiscoverViewController.swift": [553699475, 0]
+  "/Users/xda/Desktop/swift_demo/demo/demo/Myself/MyselfViewController.swift": [553699475, 0]

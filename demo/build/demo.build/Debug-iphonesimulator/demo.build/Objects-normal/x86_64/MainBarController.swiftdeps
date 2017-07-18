@@ -1,0 +1,536 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MainBarController"
+provides-nominal:
+- "C4demo17MainBarController"
+provides-member:
+- ["C4demo17MainBarController", ""]
+provides-dynamic-lookup:
+- "addSubController"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BaseNavViewController"
+- !private "DiscoverViewController"
+- !private "HomePageViewController"
+- "MainBarController"
+- !private "MessageViewController"
+- !private "MyselfViewController"
+- "String"
+- !private "StringLiteralType"
+- !private "UIColor"
+- !private "UIImage"
+- "UITabBarController"
+- "UIViewController"
+depends-member:
+- !private ["Ps9AnyObject", "BaseNavViewController"]
+- !private ["Ps9AnyObject", "DiscoverViewController"]
+- !private ["Ps9AnyObject", "HomePageViewController"]
+- !private ["Ps9AnyObject", "MessageViewController"]
+- !private ["Ps9AnyObject", "MyselfViewController"]
+- !private ["Ps9AnyObject", "UIColor"]
+- !private ["Ps9AnyObject", "UIImage"]
+- !private ["Ps9AnyObject", "addChildViewController"]
+- !private ["Ps9AnyObject", "addSubController"]
+- !private ["Ps9AnyObject", "backgroundColor"]
+- !private ["Ps9AnyObject", "image"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "selectedImage"]
+- !private ["Ps9AnyObject", "tabBarItem"]
+- !private ["Ps9AnyObject", "title"]
+- !private ["Ps9AnyObject", "view"]
+- !private ["Ps9AnyObject", "viewDidLoad"]
+- !private ["Ps9AnyObject", "white"]
+- ["Ps9AnyObject", ""]
+- !private ["C4demo21BaseNavViewController", "init"]
+- !private ["PSo15CALayerDelegate", "backgroundColor"]
+- !private ["Ps7CVarArg", "BaseNavViewController"]
+- !private ["Ps7CVarArg", "DiscoverViewController"]
+- !private ["Ps7CVarArg", "HomePageViewController"]
+- !private ["Ps7CVarArg", "MessageViewController"]
+- !private ["Ps7CVarArg", "MyselfViewController"]
+- !private ["Ps7CVarArg", "UIColor"]
+- !private ["Ps7CVarArg", "UIImage"]
+- !private ["Ps7CVarArg", "addChildViewController"]
+- !private ["Ps7CVarArg", "addSubController"]
+- !private ["Ps7CVarArg", "backgroundColor"]
+- !private ["Ps7CVarArg", "image"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "selectedImage"]
+- !private ["Ps7CVarArg", "tabBarItem"]
+- !private ["Ps7CVarArg", "title"]
+- !private ["Ps7CVarArg", "view"]
+- !private ["Ps7CVarArg", "viewDidLoad"]
+- !private ["Ps7CVarArg", "white"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "BaseNavViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "DiscoverViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "HomePageViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "MessageViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "MyselfViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "UIColor"]
+- !private ["Ps28CustomDebugStringConvertible", "UIImage"]
+- !private ["Ps28CustomDebugStringConvertible", "addChildViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "addSubController"]
+- !private ["Ps28CustomDebugStringConvertible", "backgroundColor"]
+- !private ["Ps28CustomDebugStringConvertible", "image"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "selectedImage"]
+- !private ["Ps28CustomDebugStringConvertible", "tabBarItem"]
+- !private ["Ps28CustomDebugStringConvertible", "title"]
+- !private ["Ps28CustomDebugStringConvertible", "view"]
+- !private ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- !private ["Ps28CustomDebugStringConvertible", "white"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "BaseNavViewController"]
+- !private ["Ps23CustomStringConvertible", "DiscoverViewController"]
+- !private ["Ps23CustomStringConvertible", "HomePageViewController"]
+- !private ["Ps23CustomStringConvertible", "MessageViewController"]
+- !private ["Ps23CustomStringConvertible", "MyselfViewController"]
+- !private ["Ps23CustomStringConvertible", "UIColor"]
+- !private ["Ps23CustomStringConvertible", "UIImage"]
+- !private ["Ps23CustomStringConvertible", "addChildViewController"]
+- !private ["Ps23CustomStringConvertible", "addSubController"]
+- !private ["Ps23CustomStringConvertible", "backgroundColor"]
+- !private ["Ps23CustomStringConvertible", "image"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "selectedImage"]
+- !private ["Ps23CustomStringConvertible", "tabBarItem"]
+- !private ["Ps23CustomStringConvertible", "title"]
+- !private ["Ps23CustomStringConvertible", "view"]
+- !private ["Ps23CustomStringConvertible", "viewDidLoad"]
+- !private ["Ps23CustomStringConvertible", "white"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["C4demo22DiscoverViewController", "init"]
+- !private ["Ps9Equatable", "BaseNavViewController"]
+- !private ["Ps9Equatable", "DiscoverViewController"]
+- !private ["Ps9Equatable", "HomePageViewController"]
+- !private ["Ps9Equatable", "MessageViewController"]
+- !private ["Ps9Equatable", "MyselfViewController"]
+- !private ["Ps9Equatable", "UIColor"]
+- !private ["Ps9Equatable", "UIImage"]
+- !private ["Ps9Equatable", "addChildViewController"]
+- !private ["Ps9Equatable", "addSubController"]
+- !private ["Ps9Equatable", "backgroundColor"]
+- !private ["Ps9Equatable", "image"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "selectedImage"]
+- !private ["Ps9Equatable", "tabBarItem"]
+- !private ["Ps9Equatable", "title"]
+- !private ["Ps9Equatable", "view"]
+- !private ["Ps9Equatable", "viewDidLoad"]
+- !private ["Ps9Equatable", "white"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "BaseNavViewController"]
+- !private ["Ps8Hashable", "DiscoverViewController"]
+- !private ["Ps8Hashable", "HomePageViewController"]
+- !private ["Ps8Hashable", "MessageViewController"]
+- !private ["Ps8Hashable", "MyselfViewController"]
+- !private ["Ps8Hashable", "UIColor"]
+- !private ["Ps8Hashable", "UIImage"]
+- !private ["Ps8Hashable", "addChildViewController"]
+- !private ["Ps8Hashable", "addSubController"]
+- !private ["Ps8Hashable", "backgroundColor"]
+- !private ["Ps8Hashable", "image"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "selectedImage"]
+- !private ["Ps8Hashable", "tabBarItem"]
+- !private ["Ps8Hashable", "title"]
+- !private ["Ps8Hashable", "view"]
+- !private ["Ps8Hashable", "viewDidLoad"]
+- !private ["Ps8Hashable", "white"]
+- ["Ps8Hashable", ""]
+- !private ["C4demo22HomePageViewController", "init"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["C4demo17MainBarController", "BaseNavViewController"]
+- !private ["C4demo17MainBarController", "DiscoverViewController"]
+- !private ["C4demo17MainBarController", "HomePageViewController"]
+- !private ["C4demo17MainBarController", "MessageViewController"]
+- !private ["C4demo17MainBarController", "MyselfViewController"]
+- ["C4demo17MainBarController", "String"]
+- !private ["C4demo17MainBarController", "UIColor"]
+- !private ["C4demo17MainBarController", "UIImage"]
+- ["C4demo17MainBarController", "UIViewController"]
+- !private ["C4demo17MainBarController", "addChildViewController"]
+- ["C4demo17MainBarController", "addSubController"]
+- ["C4demo17MainBarController", "deinit"]
+- ["C4demo17MainBarController", "init"]
+- !private ["C4demo17MainBarController", "view"]
+- ["C4demo17MainBarController", "viewDidLoad"]
+- !private ["C4demo21MessageViewController", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["C4demo20MyselfViewController", "init"]
+- !private ["PSo8NSCoding", "BaseNavViewController"]
+- !private ["PSo8NSCoding", "DiscoverViewController"]
+- !private ["PSo8NSCoding", "HomePageViewController"]
+- !private ["PSo8NSCoding", "MessageViewController"]
+- !private ["PSo8NSCoding", "MyselfViewController"]
+- !private ["PSo8NSCoding", "UIColor"]
+- !private ["PSo8NSCoding", "UIImage"]
+- !private ["PSo8NSCoding", "addChildViewController"]
+- !private ["PSo8NSCoding", "addSubController"]
+- !private ["PSo8NSCoding", "backgroundColor"]
+- !private ["PSo8NSCoding", "image"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "selectedImage"]
+- !private ["PSo8NSCoding", "tabBarItem"]
+- !private ["PSo8NSCoding", "title"]
+- !private ["PSo8NSCoding", "view"]
+- !private ["PSo8NSCoding", "viewDidLoad"]
+- !private ["PSo8NSCoding", "white"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "white"]
+- !private ["PSo26NSExtensionRequestHandling", "BaseNavViewController"]
+- !private ["PSo26NSExtensionRequestHandling", "DiscoverViewController"]
+- !private ["PSo26NSExtensionRequestHandling", "HomePageViewController"]
+- !private ["PSo26NSExtensionRequestHandling", "MessageViewController"]
+- !private ["PSo26NSExtensionRequestHandling", "MyselfViewController"]
+- !private ["PSo26NSExtensionRequestHandling", "UIColor"]
+- !private ["PSo26NSExtensionRequestHandling", "UIImage"]
+- !private ["PSo26NSExtensionRequestHandling", "addChildViewController"]
+- !private ["PSo26NSExtensionRequestHandling", "addSubController"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "tabBarItem"]
+- !private ["PSo26NSExtensionRequestHandling", "title"]
+- !private ["PSo26NSExtensionRequestHandling", "view"]
+- !private ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "BaseNavViewController"]
+- !private ["CSo8NSObject", "DiscoverViewController"]
+- !private ["CSo8NSObject", "HomePageViewController"]
+- !private ["CSo8NSObject", "MessageViewController"]
+- !private ["CSo8NSObject", "MyselfViewController"]
+- ["CSo8NSObject", "String"]
+- !private ["CSo8NSObject", "UIColor"]
+- !private ["CSo8NSObject", "UIImage"]
+- ["CSo8NSObject", "UIViewController"]
+- !private ["CSo8NSObject", "addChildViewController"]
+- ["CSo8NSObject", "addSubController"]
+- !private ["CSo8NSObject", "backgroundColor"]
+- !private ["CSo8NSObject", "image"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "selectedImage"]
+- !private ["CSo8NSObject", "tabBarItem"]
+- !private ["CSo8NSObject", "title"]
+- !private ["CSo8NSObject", "view"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["CSo8NSObject", "white"]
+- !private ["PSo16NSObjectProtocol", "BaseNavViewController"]
+- !private ["PSo16NSObjectProtocol", "DiscoverViewController"]
+- !private ["PSo16NSObjectProtocol", "HomePageViewController"]
+- !private ["PSo16NSObjectProtocol", "MessageViewController"]
+- !private ["PSo16NSObjectProtocol", "MyselfViewController"]
+- !private ["PSo16NSObjectProtocol", "UIColor"]
+- !private ["PSo16NSObjectProtocol", "UIImage"]
+- !private ["PSo16NSObjectProtocol", "addChildViewController"]
+- !private ["PSo16NSObjectProtocol", "addSubController"]
+- !private ["PSo16NSObjectProtocol", "backgroundColor"]
+- !private ["PSo16NSObjectProtocol", "image"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "selectedImage"]
+- !private ["PSo16NSObjectProtocol", "tabBarItem"]
+- !private ["PSo16NSObjectProtocol", "title"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- !private ["PSo16NSObjectProtocol", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "white"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "white"]
+- !private ["CSo8NSString", "init"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "backgroundColor"]
+- !private ["PSo29UIAccessibilityIdentification", "image"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "selectedImage"]
+- !private ["PSo12UIAppearance", "backgroundColor"]
+- !private ["PSo12UIAppearance", "image"]
+- !private ["PSo12UIAppearance", "selectedImage"]
+- !private ["PSo21UIAppearanceContainer", "BaseNavViewController"]
+- !private ["PSo21UIAppearanceContainer", "DiscoverViewController"]
+- !private ["PSo21UIAppearanceContainer", "HomePageViewController"]
+- !private ["PSo21UIAppearanceContainer", "MessageViewController"]
+- !private ["PSo21UIAppearanceContainer", "MyselfViewController"]
+- !private ["PSo21UIAppearanceContainer", "UIColor"]
+- !private ["PSo21UIAppearanceContainer", "UIImage"]
+- !private ["PSo21UIAppearanceContainer", "addChildViewController"]
+- !private ["PSo21UIAppearanceContainer", "addSubController"]
+- !private ["PSo21UIAppearanceContainer", "backgroundColor"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "tabBarItem"]
+- !private ["PSo21UIAppearanceContainer", "title"]
+- !private ["PSo21UIAppearanceContainer", "view"]
+- !private ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo9UIBarItem", "image"]
+- !private ["CSo9UIBarItem", "selectedImage"]
+- !private ["CSo7UIColor", "white"]
+- !private ["PSo18UIContentContainer", "BaseNavViewController"]
+- !private ["PSo18UIContentContainer", "DiscoverViewController"]
+- !private ["PSo18UIContentContainer", "HomePageViewController"]
+- !private ["PSo18UIContentContainer", "MessageViewController"]
+- !private ["PSo18UIContentContainer", "MyselfViewController"]
+- !private ["PSo18UIContentContainer", "UIColor"]
+- !private ["PSo18UIContentContainer", "UIImage"]
+- !private ["PSo18UIContentContainer", "addChildViewController"]
+- !private ["PSo18UIContentContainer", "addSubController"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "tabBarItem"]
+- !private ["PSo18UIContentContainer", "title"]
+- !private ["PSo18UIContentContainer", "view"]
+- !private ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "backgroundColor"]
+- !private ["PSo13UIDynamicItem", "backgroundColor"]
+- !private ["PSo18UIFocusEnvironment", "BaseNavViewController"]
+- !private ["PSo18UIFocusEnvironment", "DiscoverViewController"]
+- !private ["PSo18UIFocusEnvironment", "HomePageViewController"]
+- !private ["PSo18UIFocusEnvironment", "MessageViewController"]
+- !private ["PSo18UIFocusEnvironment", "MyselfViewController"]
+- !private ["PSo18UIFocusEnvironment", "UIColor"]
+- !private ["PSo18UIFocusEnvironment", "UIImage"]
+- !private ["PSo18UIFocusEnvironment", "addChildViewController"]
+- !private ["PSo18UIFocusEnvironment", "addSubController"]
+- !private ["PSo18UIFocusEnvironment", "backgroundColor"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "tabBarItem"]
+- !private ["PSo18UIFocusEnvironment", "title"]
+- !private ["PSo18UIFocusEnvironment", "view"]
+- !private ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "backgroundColor"]
+- !private ["CSo7UIImage", "init"]
+- !private ["CSo22UINavigationController", "init"]
+- !private ["CSo11UIResponder", "BaseNavViewController"]
+- !private ["CSo11UIResponder", "DiscoverViewController"]
+- !private ["CSo11UIResponder", "HomePageViewController"]
+- !private ["CSo11UIResponder", "MessageViewController"]
+- !private ["CSo11UIResponder", "MyselfViewController"]
+- ["CSo11UIResponder", "String"]
+- !private ["CSo11UIResponder", "UIColor"]
+- !private ["CSo11UIResponder", "UIImage"]
+- ["CSo11UIResponder", "UIViewController"]
+- !private ["CSo11UIResponder", "addChildViewController"]
+- ["CSo11UIResponder", "addSubController"]
+- !private ["CSo11UIResponder", "backgroundColor"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "tabBarItem"]
+- !private ["CSo11UIResponder", "title"]
+- !private ["CSo11UIResponder", "view"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "BaseNavViewController"]
+- !private ["PSo30UIResponderStandardEditActions", "DiscoverViewController"]
+- !private ["PSo30UIResponderStandardEditActions", "HomePageViewController"]
+- !private ["PSo30UIResponderStandardEditActions", "MessageViewController"]
+- !private ["PSo30UIResponderStandardEditActions", "MyselfViewController"]
+- !private ["PSo30UIResponderStandardEditActions", "UIColor"]
+- !private ["PSo30UIResponderStandardEditActions", "UIImage"]
+- !private ["PSo30UIResponderStandardEditActions", "addChildViewController"]
+- !private ["PSo30UIResponderStandardEditActions", "addSubController"]
+- !private ["PSo30UIResponderStandardEditActions", "backgroundColor"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "tabBarItem"]
+- !private ["PSo30UIResponderStandardEditActions", "title"]
+- !private ["PSo30UIResponderStandardEditActions", "view"]
+- !private ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo16UIStateRestoring", "BaseNavViewController"]
+- !private ["PSo16UIStateRestoring", "DiscoverViewController"]
+- !private ["PSo16UIStateRestoring", "HomePageViewController"]
+- !private ["PSo16UIStateRestoring", "MessageViewController"]
+- !private ["PSo16UIStateRestoring", "MyselfViewController"]
+- !private ["PSo16UIStateRestoring", "UIColor"]
+- !private ["PSo16UIStateRestoring", "UIImage"]
+- !private ["PSo16UIStateRestoring", "addChildViewController"]
+- !private ["PSo16UIStateRestoring", "addSubController"]
+- !private ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "tabBarItem"]
+- !private ["PSo16UIStateRestoring", "title"]
+- !private ["PSo16UIStateRestoring", "view"]
+- !private ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["CSo18UITabBarController", "BaseNavViewController"]
+- !private ["CSo18UITabBarController", "DiscoverViewController"]
+- !private ["CSo18UITabBarController", "HomePageViewController"]
+- !private ["CSo18UITabBarController", "MessageViewController"]
+- !private ["CSo18UITabBarController", "MyselfViewController"]
+- ["CSo18UITabBarController", "String"]
+- !private ["CSo18UITabBarController", "UIColor"]
+- !private ["CSo18UITabBarController", "UIImage"]
+- ["CSo18UITabBarController", "UIViewController"]
+- !private ["CSo18UITabBarController", "addChildViewController"]
+- ["CSo18UITabBarController", "addSubController"]
+- ["CSo18UITabBarController", "init"]
+- !private ["CSo18UITabBarController", "view"]
+- ["CSo18UITabBarController", "viewDidLoad"]
+- ["CSo18UITabBarController", ""]
+- !private ["PSo16UITabBarDelegate", "BaseNavViewController"]
+- !private ["PSo16UITabBarDelegate", "DiscoverViewController"]
+- !private ["PSo16UITabBarDelegate", "HomePageViewController"]
+- !private ["PSo16UITabBarDelegate", "MessageViewController"]
+- !private ["PSo16UITabBarDelegate", "MyselfViewController"]
+- !private ["PSo16UITabBarDelegate", "UIColor"]
+- !private ["PSo16UITabBarDelegate", "UIImage"]
+- !private ["PSo16UITabBarDelegate", "addChildViewController"]
+- !private ["PSo16UITabBarDelegate", "addSubController"]
+- !private ["PSo16UITabBarDelegate", "init"]
+- !private ["PSo16UITabBarDelegate", "view"]
+- !private ["PSo16UITabBarDelegate", "viewDidLoad"]
+- ["PSo16UITabBarDelegate", ""]
+- !private ["CSo12UITabBarItem", "image"]
+- !private ["CSo12UITabBarItem", "selectedImage"]
+- !private ["PSo18UITraitEnvironment", "BaseNavViewController"]
+- !private ["PSo18UITraitEnvironment", "DiscoverViewController"]
+- !private ["PSo18UITraitEnvironment", "HomePageViewController"]
+- !private ["PSo18UITraitEnvironment", "MessageViewController"]
+- !private ["PSo18UITraitEnvironment", "MyselfViewController"]
+- !private ["PSo18UITraitEnvironment", "UIColor"]
+- !private ["PSo18UITraitEnvironment", "UIImage"]
+- !private ["PSo18UITraitEnvironment", "addChildViewController"]
+- !private ["PSo18UITraitEnvironment", "addSubController"]
+- !private ["PSo18UITraitEnvironment", "backgroundColor"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "tabBarItem"]
+- !private ["PSo18UITraitEnvironment", "title"]
+- !private ["PSo18UITraitEnvironment", "view"]
+- !private ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "backgroundColor"]
+- !private ["CSo16UIViewController", "BaseNavViewController"]
+- !private ["CSo16UIViewController", "DiscoverViewController"]
+- !private ["CSo16UIViewController", "HomePageViewController"]
+- !private ["CSo16UIViewController", "MessageViewController"]
+- !private ["CSo16UIViewController", "MyselfViewController"]
+- ["CSo16UIViewController", "String"]
+- !private ["CSo16UIViewController", "UIColor"]
+- !private ["CSo16UIViewController", "UIImage"]
+- ["CSo16UIViewController", "UIViewController"]
+- !private ["CSo16UIViewController", "addChildViewController"]
+- ["CSo16UIViewController", "addSubController"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "tabBarItem"]
+- !private ["CSo16UIViewController", "title"]
+- !private ["CSo16UIViewController", "view"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "backgroundColor"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps26_ExpressibleByColorLiteral", "white"]
+- !private ["Ps26_ExpressibleByImageLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "BaseNavViewController"]
+- !private ["Ps9_Hashable", "DiscoverViewController"]
+- !private ["Ps9_Hashable", "HomePageViewController"]
+- !private ["Ps9_Hashable", "MessageViewController"]
+- !private ["Ps9_Hashable", "MyselfViewController"]
+- !private ["Ps9_Hashable", "UIColor"]
+- !private ["Ps9_Hashable", "UIImage"]
+- !private ["Ps9_Hashable", "addChildViewController"]
+- !private ["Ps9_Hashable", "addSubController"]
+- !private ["Ps9_Hashable", "backgroundColor"]
+- !private ["Ps9_Hashable", "image"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "selectedImage"]
+- !private ["Ps9_Hashable", "tabBarItem"]
+- !private ["Ps9_Hashable", "title"]
+- !private ["Ps9_Hashable", "view"]
+- !private ["Ps9_Hashable", "viewDidLoad"]
+- !private ["Ps9_Hashable", "white"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "C4demo21BaseNavViewController"
+- !private "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "C4demo22DiscoverViewController"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "C4demo22HomePageViewController"
+- !private "Ps25LosslessStringConvertible"
+- "C4demo17MainBarController"
+- !private "C4demo21MessageViewController"
+- !private "Ps10MirrorPath"
+- !private "C4demo20MyselfViewController"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo9UIBarItem"
+- !private "CSo7UIColor"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- !private "CSo7UIImage"
+- !private "CSo22UINavigationController"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "CSo18UITabBarController"
+- "PSo16UITabBarDelegate"
+- !private "CSo12UITabBarItem"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps26_ExpressibleByColorLiteral"
+- !private "Ps26_ExpressibleByImageLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "8aea702907a954d7fd0824415c109f06"
